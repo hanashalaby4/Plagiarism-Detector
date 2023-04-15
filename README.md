@@ -1,6 +1,6 @@
 # Plagiarism-Detector
 
-# Architecture Design:
+# Architecture Design
 
 The architecture design for the Simple Plagiarism Detection Utility can be divided into four major components:
 
