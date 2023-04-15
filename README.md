@@ -16,8 +16,7 @@ Performance Comparison: This component includes classes and interfaces for compa
 
 Below is the UML diagram that shows the relationships between the different classes and interfaces in the architecture design:
 
-python
-Copy code
+
 +-----------------+        +-----------------+          +-----------------+          +-------------------+
 | Document        |        | DocumentReader  |          | StringMatcher   |          | PerformanceTester|
 +-----------------+        +-----------------+          +-----------------+          +-------------------+
